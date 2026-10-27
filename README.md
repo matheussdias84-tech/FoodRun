@@ -4,7 +4,7 @@
 > Plataforma de delivery de comida que conecta clientes, restaurantes e entregadores, inspirada no iFood.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
+
 
 ---
 
